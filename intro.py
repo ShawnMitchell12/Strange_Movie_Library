@@ -1,0 +1,15 @@
+def print_intro():
+    print('   $$$       $$         $$   $$      ')
+    print('$$$   $$$    $$$$     $$$$   $$      ')
+    print('$$$          $$  $$ $$  $$   $$      ')
+    print('   $$$       $$    $    $$   $$      ')
+    print('       $$$   $$         $$   $$      ')
+    print('$$$    $$$   $$         $$   $$      ')
+    print('   $$$       $$         $$   $$$$$$$$')
+    print('                                     ')
+    print(' ------------------------------------')
+    print(' Welcome to the Strange Movie Library')
+    print('                                     ')
+    print(' Hope you can find something strange!')
+    print(' ------------------------------------')
+
